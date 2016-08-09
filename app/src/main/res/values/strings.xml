@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">Paint</string>
+
+    <string name="apply">Применить</string>
+
+    <!--Tools names-->
+    <string name="easer">Ластик</string>
+    <string name="pipette">Пипетка</string>
+    <string name="pen">Карандаш</string>
+    <string name="brush">Кисть</string>
+    <string name="aerosol">Аэрозоль</string>
+    <string name="text">Текст</string>
+    <string name="line">Линия</string>
+    <string name="rectangle">Прямоугольник</string>
+    <string name="oval">Овал</string>
+    <string name="circle">Круг</string>
+    <string name="print">Принт</string>
+    <string name="filter">Фильтры</string>
+
+    <!--Filters names-->
+    <string name="filter.gray_scale">Gray scale</string>
+    <string name="filter.sepia">Sepia</string>
+    <string name="filter.binary">Binary</string>
+    <string name="filter.invert">Invert</string>
+    <string name="filter.alpha">Alpha</string>
+
+    <!--Actions-->
+    <string name="action.clear">Очистить</string>
+    <string name="action.save">Сохранить</string>
+    <string name="action.load">Загрузить</string>
+
+</resources>

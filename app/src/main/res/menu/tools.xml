@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/menu_easer"
+            android:title="@string/easer"/>
+
+        <item
+            android:id="@+id/menu_pipette"
+            android:title="@string/pipette"/>
+
+        <item
+            android:id="@+id/menu_pen"
+            android:title="@string/pen"/>
+
+        <item
+            android:id="@+id/menu_brush"
+            android:title="@string/brush"/>
+
+        <item
+            android:id="@+id/menu_aerosol"
+            android:title="@string/aerosol"/>
+
+        <item
+            android:id="@+id/menu_text"
+            android:title="@string/text"/>
+
+        <item
+            android:id="@+id/menu_line"
+            android:title="@string/line"/>
+
+        <item
+            android:id="@+id/menu_rectangle"
+            android:title="@string/rectangle"/>
+
+        <item
+            android:id="@+id/menu_oval"
+            android:title="@string/oval"/>
+
+        <item
+            android:id="@+id/menu_circle"
+            android:title="@string/circle"/>
+
+        <item
+            android:id="@+id/menu_print"
+            android:title="@string/print"/>
+
+        <item
+            android:id="@+id/menu_filter"
+            android:title="@string/filter"/>
+
+</menu>
